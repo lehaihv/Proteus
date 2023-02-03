@@ -1,0 +1,7 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"timers.c" LINE:72
+lcd_puts DSTACK_USAGE:6 DSTACK_LEVEL:6 FILE:"C:\cvavreval\lib\alcd.lib" LINE:286
+lcd_putchar DSTACK_USAGE:2 DSTACK_LEVEL:8 FILE:"C:\cvavreval\lib\alcd.lib" LINE:272
+lcd_gotoxy DSTACK_USAGE:4 DSTACK_LEVEL:12 FILE:"C:\cvavreval\lib\alcd.lib" LINE:254
+_lcd_write_data DSTACK_USAGE:1 DSTACK_LEVEL:13 FILE:"C:\cvavreval\lib\alcd.lib" LINE:166
+_lcd_write_nibble DSTACK_USAGE:2 DSTACK_LEVEL:15 FILE:"C:\cvavreval\lib\alcd.lib" LINE:142
+adc_isr DSTACK_USAGE:6 DSTACK_LEVEL:21 FILE:"timers.c" LINE:53

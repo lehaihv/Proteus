@@ -1,0 +1,34 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+adc_data                                                                          0x00E6       8
+input_index (timers.c)                                                            0x00EE       1
+adc_value                                                                         0x00EF      16
+_base_y (alcd.lib)                                                                0x00FF       4
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+count                                                                             R4,R5        2
+ticks                                                                             R6,R7        2
+_lcd_x                                                                            R9           1
+_lcd_y                                                                            R8           1
+_lcd_maxx                                                                         R11          1
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+timer0_comp_isr                                                                   0x0005A     29
+adc_isr                                                                           0x00077     46
+main                                                                              0x000A5    225
+_lcd_write_nibble_G100                                                            0x00186     15
+_lcd_write_data                                                                   0x00195     14
+lcd_gotoxy                                                                        0x001A3     16
+lcd_clear                                                                         0x001B3     10
+lcd_putchar                                                                       0x001BD     18
+lcd_puts                                                                          0x001CF     15
+lcd_init                                                                          0x001DE     43
