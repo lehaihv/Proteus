@@ -1,9 +1,9 @@
 
-AVRASM ver. 2.1.30  C:\Users\haihv\Documents\GitHub\Proteus\AVR\Atmega8535\Debug\List\Atmega8535.asm Fri Feb 03 13:13:01 2023
+AVRASM ver. 2.1.30  D:\GitHub\Proteus\AVR\Atmega8535\Debug\List\Atmega8535.asm Fri Feb 03 20:48:24 2023
 
-C:\Users\haihv\Documents\GitHub\Proteus\AVR\Atmega8535\Debug\List\Atmega8535.asm(1415): warning: Register r5 already defined by the .DEF directive
-C:\Users\haihv\Documents\GitHub\Proteus\AVR\Atmega8535\Debug\List\Atmega8535.asm(1416): warning: Register r4 already defined by the .DEF directive
-C:\Users\haihv\Documents\GitHub\Proteus\AVR\Atmega8535\Debug\List\Atmega8535.asm(1417): warning: Register r7 already defined by the .DEF directive
+D:\GitHub\Proteus\AVR\Atmega8535\Debug\List\Atmega8535.asm(1415): warning: Register r5 already defined by the .DEF directive
+D:\GitHub\Proteus\AVR\Atmega8535\Debug\List\Atmega8535.asm(1416): warning: Register r4 already defined by the .DEF directive
+D:\GitHub\Proteus\AVR\Atmega8535\Debug\List\Atmega8535.asm(1417): warning: Register r7 already defined by the .DEF directive
                  
                  
                  ;CodeVisionAVR C Compiler V3.50 

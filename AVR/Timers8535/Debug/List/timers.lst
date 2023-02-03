@@ -1,13 +1,13 @@
 
-AVRASM ver. 2.1.30  C:\Users\haihv\Documents\GitHub\Proteus\AVR\Timers8535\Debug\List\timers.asm Fri Feb 03 15:11:29 2023
+AVRASM ver. 2.1.30  D:\GitHub\Proteus\AVR\Timers8535\Debug\List\timers.asm Fri Feb 03 20:53:35 2023
 
-C:\Users\haihv\Documents\GitHub\Proteus\AVR\Timers8535\Debug\List\timers.asm(1415): warning: Register r4 already defined by the .DEF directive
-C:\Users\haihv\Documents\GitHub\Proteus\AVR\Timers8535\Debug\List\timers.asm(1416): warning: Register r5 already defined by the .DEF directive
-C:\Users\haihv\Documents\GitHub\Proteus\AVR\Timers8535\Debug\List\timers.asm(1417): warning: Register r6 already defined by the .DEF directive
-C:\Users\haihv\Documents\GitHub\Proteus\AVR\Timers8535\Debug\List\timers.asm(1418): warning: Register r7 already defined by the .DEF directive
-C:\Users\haihv\Documents\GitHub\Proteus\AVR\Timers8535\Debug\List\timers.asm(1419): warning: Register r9 already defined by the .DEF directive
-C:\Users\haihv\Documents\GitHub\Proteus\AVR\Timers8535\Debug\List\timers.asm(1420): warning: Register r8 already defined by the .DEF directive
-C:\Users\haihv\Documents\GitHub\Proteus\AVR\Timers8535\Debug\List\timers.asm(1421): warning: Register r11 already defined by the .DEF directive
+D:\GitHub\Proteus\AVR\Timers8535\Debug\List\timers.asm(1415): warning: Register r4 already defined by the .DEF directive
+D:\GitHub\Proteus\AVR\Timers8535\Debug\List\timers.asm(1416): warning: Register r5 already defined by the .DEF directive
+D:\GitHub\Proteus\AVR\Timers8535\Debug\List\timers.asm(1417): warning: Register r6 already defined by the .DEF directive
+D:\GitHub\Proteus\AVR\Timers8535\Debug\List\timers.asm(1418): warning: Register r7 already defined by the .DEF directive
+D:\GitHub\Proteus\AVR\Timers8535\Debug\List\timers.asm(1419): warning: Register r9 already defined by the .DEF directive
+D:\GitHub\Proteus\AVR\Timers8535\Debug\List\timers.asm(1420): warning: Register r8 already defined by the .DEF directive
+D:\GitHub\Proteus\AVR\Timers8535\Debug\List\timers.asm(1421): warning: Register r11 already defined by the .DEF directive
                  
                  
                  ;CodeVisionAVR C Compiler V3.50 Evaluation
